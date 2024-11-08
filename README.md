@@ -23,7 +23,7 @@ Next.js app configured with:
 To begin
 
 ```sh
-pnpm install && pnpm dlx husky install
+pnpm install
 ```
 
 To run development server (PORT = 3000)
